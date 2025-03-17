@@ -44,7 +44,7 @@ Este proyecto es una aplicación sencilla que permite realizar un sorteo de "Ami
 
 ## Acceso al Proyecto
 
-Ingresa a [Acceder al código fuente del proyecto](https://github.com/Rising1987/Challenge-Amigo-Secreto/tree/main) para acceder al proyecto.
+Ingresa a [Acceder al código fuente del proyecto](https://github.com/Rising1987/Challenge-Amigo-Secreto.git) para acceder al proyecto.
 
 ## Desarrollador
 
