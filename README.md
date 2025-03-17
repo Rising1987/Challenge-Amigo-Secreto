@@ -39,7 +39,7 @@ Este proyecto es una aplicación sencilla que permite realizar un sorteo de "Ami
 
 <a href="https://www.java.com/es/" target="_blank"> <img alt="imagen" src="https://github.com/user-attachments/assets/edffdecc-8f3f-4303-8edb-240b95a26bde" alt="JavaScript" width="40" height="40"/> </a> 
 
-<a href="https://firebase.google.com/?hl=pt" target="_blank"> <img alt="imagen" src="https://github.com/user-attachments/assets/c20acfd5-ff68-4ef3-8906-9ab42afd8f65" alt="HTML5" width="40" height="40"/> </a>
+<a href="https://es.wikipedia.org/wiki/HTML5" target="_blank"> <img alt="imagen" src="https://github.com/user-attachments/assets/c20acfd5-ff68-4ef3-8906-9ab42afd8f65" alt="HTML5" width="40" height="40"/> </a>
 
 
 ## Acceso al Proyecto
